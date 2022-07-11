@@ -3,9 +3,47 @@ body {
 
 }
 
+.flex-container {
+
+    display: flex;
+
+}
+
+video {
+
+    border-radius: 10px;
+    width: 80%;
+
+}
+
+
+h2 {
+
+    font-size: 45px;
+    font-family: 'Inter';
+    font-weight: 700;
+}
+
+p {
+    color: #707070;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+}
+
+section {
+
+    margin-bottom: 80px;
+}
+
+.half-width {
+
+    width: 50%;
+}
+
 #top-banner {
     background: linear-gradient(90deg, #1A1A1A -0.7%, rgba(26, 26, 26, 0) 100%),
-        url(images/bnr.jpg);
+        url(media/images/bnr.jpg);
     height: 700px;
     background-repeat: no-repeat;
 
@@ -23,7 +61,7 @@ body {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 55px;
+    font-size: 60px;
     line-height: 75px;
     /* or 136% */
 
@@ -65,4 +103,27 @@ body {
     margin-top: 464px;
 
 
+}
+
+.Explore-btn {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    font-family: 'Inter';
+    background: #EF233C;
+    padding: 16px 12px;
+    border-radius: 5px;
+
+}
+
+#left-algn {
+
+    margin-left: 204px;
+}
+
+#video-top-algn {
+
+    margin-top: 65px;
 }
