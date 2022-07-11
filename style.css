@@ -118,12 +118,12 @@ section {
 
 }
 
-#left-algn {
+.left-algn {
 
     margin-left: 204px;
 }
 
-#video-top-algn {
+.video-top-algn {
 
     margin-top: 65px;
 }
