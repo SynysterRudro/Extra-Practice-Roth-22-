@@ -127,3 +127,26 @@ section {
 
     margin-top: 65px;
 }
+
+.center-algn {
+    text-align: center;
+}
+
+.box-dsgn {
+
+
+    background-color: #FEF4F5;
+    width: 461px;
+    height: 225px;
+    padding-left: 30px;
+    padding-top: 50px;
+    border-radius: 5px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+
+}
+
+.box-mrgn {
+
+    margin-left: 247px;
+}
